@@ -1,0 +1,13 @@
+:root {
+  --bg-main: #3a4764;
+  --bg2-main: #232c43;
+  --bg3-main: #182034;
+  --key-bg: #637097;
+  --key-shadow: #404e72;
+  --key-bg2: #d03f2f;
+  --key-shadow2: #93261a;
+  --key-bg3: #eae3dc;
+  --key-shadow3: #b4a597;
+  --txt-main: black;
+  --txt-second: white;
+}
